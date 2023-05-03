@@ -26,10 +26,9 @@ Why is this useful?
 
 - More about scraping. I had a hard time getting this to work (I suspect it's because of dynamic classes on the page). Also because there are 2+ dropdowns for each program. 
 - Conceptualizing a database. I also spent a long time figuring out how best to store the information and reorganize it accordingly. 
-- Bokeh!! This was new to me. Baby steps in learning how JS works. 
+- Stretched myself with Bokeh. This was new to me. Baby steps in learning how JS works. 
 
 # Things to fix + expand 
-
 
 Things to fix 
 
