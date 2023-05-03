@@ -31,13 +31,13 @@ Why is this useful?
 
 Things to fix 
 
-- Need to address times that are given in weeks, not months 
-- Fix loop so that times with "Not Enough Data" aren't just removed
-- Need to get each line on the chart with appropriate button 
+- Need to address times that are given in weeks, not months. 
+- Fix loop so that times with "Not Enough Data" aren't just removed.
+- Need to get each line on the chart with appropriate button. 
 
 Going forward: 
 
-- The idea is to flesh this out to have more visa programs included 
+- The idea is to flesh this out to have more visa programs included. 
 - I also just need to sit and wait! The data only updates weekly, so I have to wait to see how it shapes out. 
 
 
