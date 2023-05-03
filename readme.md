@@ -6,12 +6,12 @@ Why is this useful?
 
 - To have a better idea of how long you can expect to wait for a response on an application. (The IRCC website doesn't show a record, only the estimated time for that given week - and these often fluctuate.)
 
-- To compare times between different PR programs 
+- To compare times between different PR programs.
 
 # Method 
 
 - `scrape.ipynb` scrapes the IRCC website using **Playwright** and **BeautifulSoup**. 
-- `clean.ipynb` cleans the data and plots it on an interactive chart using **Bokeh**. The chart is saved as a html file that is called from `index.html` 
+- `clean.ipynb` cleans the data and plots it on an interactive chart using **Bokeh**. The chart is saved as `plot.html` (with `plot.js`, too)
 
 # The Data 
 
@@ -20,7 +20,7 @@ Why is this useful?
     For example, the collected times for the Quebec Skilled Workers program are saved in `Skilled_workers_(Quebec).csv`
 - The compiled data (with times for every program) is saved to `econ_migration_processing_times.csv`
 
-# Things I learned 
+# What I learned 
 
 - More about scraping. I had a hard time getting this to work (I suspect it's because of dynamic classes on the page). Also because there are 2+ dropdowns for each program. 
 - Conceptualizing a database. I also spent a long time figuring out how best to store the information and reorganize it accordingly. 
