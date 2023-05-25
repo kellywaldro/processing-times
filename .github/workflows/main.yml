@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.10'
       - name: Install all necessary packages
-        run: pip install jupyter lxml pandas requests beautifulsoup4 playwright
+        run: pip install jupyter lxml pandas requests beautifulsoup4 playwright bokeh
       - name: Install playwright dependencies
         run: playwright install
       - name: Run the scraping script
