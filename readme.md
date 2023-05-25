@@ -28,7 +28,7 @@ Why is this useful?
 - Conceptualizing a database. I also spent a long time figuring out how best to store the information and reorganize it accordingly. 
 - Stretched myself with Bokeh. This was new to me. Baby steps in learning how JS works. 
 
-# Things to fix + expand 
+# Things to expand and fix
 
 Things to fix 
 
