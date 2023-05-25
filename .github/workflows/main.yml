@@ -19,7 +19,7 @@ jobs:
       - name: Install all necessary packages
         run: pip install jupyter lxml pandas requests beautifulsoup4 playwright
       - name: Install playwright dependencies
-        run: npx playwright install
+        run: playwright install
       - name: Run the scraping script
         run: jupyter nbconvert --to notebook --execute "scrape.ipynb" --stdout
       - name: Run the cleaning script
